@@ -1,1 +1,2 @@
 # Project-Mobile-App-for-Lottery-Addiction-
+In this project, I'm going to contribute to the development of a mobile app by writing functions that are focused on calculating probabilities. The app is aimed to both prevent and treat lottery addiction by helping people better estimate their chances of winning. The scenario we're following throughout this project is fictional — the main purpose is to practice applying probability and combinatorics (permutations and combinations) concepts in a setting that simulates a real-world scenario.
